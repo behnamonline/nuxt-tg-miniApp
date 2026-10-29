@@ -13,7 +13,7 @@
         <div class="flex items-center gap-3">
           <div class="w-10 h-10 rounded-2xl bg-gradient-to-tr from-indigo-500 via-purple-500 to-pink-500 p-[1.5px] shadow-lg shadow-indigo-500/20">
             <div class="w-full h-full bg-slate-950 rounded-[14px] flex items-center justify-center">
-              <span class="text-lg">⚡⚡</span>
+              <span class="text-lg">⚡B⚡</span>
             </div>
           </div>
           <div>
